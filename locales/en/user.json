@@ -1,0 +1,9 @@
+{
+  "data": {
+    "follower": "<number>{{count}}</number> <item>Follower</item>",
+    "follower_plural": "<number>{{count}}</number> <item>Followers</item>",
+    "following": "<number>{{number}}</number> <item>Following</item>",
+    "listings": "<number>{{count}}</number> <item>Listing</item>",
+    "listings_plural": "<number>{{count}}</number> <item>Listings</item>"
+  }
+}

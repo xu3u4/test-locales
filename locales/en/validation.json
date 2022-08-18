@@ -1,0 +1,14 @@
+{
+  "priceOutOfRange": "Enter a price between 300 and 9,999,999 yen.",
+  "too_big": {
+    "number": {
+      "inclusiveMessage": "You cannot enter an amount more than {{ amount }}."
+    },
+    "string": {
+      "inclusiveMessage": "You cannot enter more than {{ count }} character.",
+      "inclusiveMessage_plural": "You cannot enter more than {{ count }} characters.",
+      "notInclusiveMessage": "You must enter less than {{ count }} character.",
+      "notInclusiveMessage_plural": "You must enter less than {{ count }} characters."
+    }
+  }
+}

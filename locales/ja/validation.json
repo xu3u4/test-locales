@@ -1,0 +1,12 @@
+{
+  "priceOutOfRange": "300~9,999,999円の範囲で入力してください",
+  "too_big": {
+    "number": {
+      "inclusiveMessage": "{{ amount }}以下で入力してください"
+    },
+    "string": {
+      "inclusiveMessage_0": "{{ count }}文字以下で入力してください",
+      "notInclusiveMessage": "{{ count }}文字より下で入力してください"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "data": {
+    "follower_0": "<number>{{count}}</number> <item>フォロワー</item>",
+    "following": "<number>{{number}}</number> <item>フォロー中</item>",
+    "listings_0": "<number>{{count}}</number> <item>出品数</item>"
+  }
+}
