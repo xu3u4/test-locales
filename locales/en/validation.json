@@ -7,7 +7,7 @@
     "string": {
       "inclusiveMessage": "You cannot enter more than {{ count }} character.",
       "inclusiveMessage_plural": "You cannot enter more than {{ count }} characters.",
-      "notInclusiveMessage": "You must enter less than {{ count }} character.",
+      "notInclusiveMessage": "You must enter less than {{ count }} character new.",
       "notInclusiveMessage_plural": "You must enter less than {{ count }} characters."
     }
   }
