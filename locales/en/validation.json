@@ -5,10 +5,10 @@
       "inclusiveMessage": "You cannot enter an amount more than {{ amount }}."
     },
     "string": {
-      "inclusiveMessage": "You cannot enter more than {{ count }} character.",
-      "inclusiveMessage_plural": "You cannot enter more than {{ count }} characters.",
-      "notInclusiveMessage": "You must enter less than {{ count }} character new.",
-      "notInclusiveMessage_plural": "You must enter less than {{ count }} characters."
+      "inclusiveMessage_one": "You cannot enter more than {{ count }} character.",
+      "inclusiveMessage_other": "You cannot enter more than {{ count }} characters.",
+      "notInclusiveMessage_one": "You must enter less than {{ count }} character new.",
+      "notInclusiveMessage_other": "You must enter less than {{ count }} characters."
     }
   }
 }
