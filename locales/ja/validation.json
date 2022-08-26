@@ -5,7 +5,7 @@
       "inclusiveMessage": "{{ amount }}以下で入力してください"
     },
     "string": {
-      "inclusiveMessage_0": "{{ count }}文字以下で入力してください",
+      "inclusiveMessage_other": "{{ count }}文字以下で入力してください",
       "notInclusiveMessage": "{{ count }}文字より下で入力してください"
     }
   }
