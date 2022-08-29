@@ -1,6 +1,5 @@
 {
   "data": {
-    "follower_one": "<number>{{count}}</number> <item>Follower</item>",
     "follower_other": "<number>{{count}}</number> <item>Followers</item>",
     "following": "<number>{{number}}</number> <item>Following</item>",
     "listings_one": "<number>{{count}}</number> <item>Listing</item>",
