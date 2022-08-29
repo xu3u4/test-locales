@@ -6,7 +6,7 @@
     },
     "string": {
       "inclusiveMessage_other": "{{ count }}文字以下で入力してください",
-      "notInclusiveMessage": "{{ count }}文字より下で入力してください"
+      "notInclusiveMessage_other": "{{ count }}文字より下で入力してください"
     }
   }
 }
